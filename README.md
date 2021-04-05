@@ -1,3 +1,3 @@
-![Category overview screenshot](docs/images/Logo.jpg "Database initializer")
+![Category overview screenshot](docs/images/logo.png "Database initializer")
 
 # dataopp
